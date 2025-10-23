@@ -33,6 +33,10 @@ Love turning ideas into real-world projects!
 
 ---
 
+[![An image of @harryfrzz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harryfrzz)](https://holopin.io/@harryfrzz)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harryfrzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=harryfrzz&theme=dark&hide_border=false)<br/>
