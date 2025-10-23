@@ -33,6 +33,7 @@ Love turning ideas into real-world projects!
 
 ---
 
+## 🎖️ Holopin Board  
 [![An image of @harryfrzz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harryfrzz)](https://holopin.io/@harryfrzz)
 
 ---
@@ -46,11 +47,6 @@ Love turning ideas into real-world projects!
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harryfrzz&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 🎖️ Holopin Board  
-[![An image of @harryfrzz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harryfrzz)](https://holopin.io/@harryfrzz)
 
 ---
 
